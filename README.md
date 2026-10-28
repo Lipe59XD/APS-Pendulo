@@ -71,8 +71,3 @@ menos quatro oscilações completas com decaimento visível da amplitude.
 - `grafico_pendulo.py`: gráficos animados e tela de resultados.
 - `amortecimento.py`: cálculos físicos.
 
-Para executar os testes:
-
-```powershell
-.\.venv\Scripts\python.exe -m unittest discover -s tests -v
-```
